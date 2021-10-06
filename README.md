@@ -1,7 +1,9 @@
 # Lung_Cancer_Detection
 
 ## Dataset Information
-> Link : [Pneumonia X-Ray Images](https://www.kaggle.com/pcbreviglieri/pneumonia-xray-images)
+> Link : [Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/andrewmvd/lung-and-colon-cancer-histopathological-images)
+
+_Note : I have only used the images of **lung_image_sets** folder of the above dataset._
 
 
 ## Weights Model Information 
@@ -13,3 +15,4 @@ _Note : The **lung_cancer.h5** file exceeds 100MB, and it becomes the part of Gi
 ### This project is sub-part of [AI-DocHelper](https://github.com/VikrantShah/AI-DocHelper)
 
 <br>
+C210517C210704
